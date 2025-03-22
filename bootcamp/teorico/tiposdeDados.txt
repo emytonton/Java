@@ -1,0 +1,33 @@
+tipos primitivos:
+int
+byte
+short
+long
+float
+double
+boolean
+char
+
+--String
+
+
+Declaração de Variaveis
+
+<TIPO> <NOME> <ATRIBUIÇÃO(OPCIONAL)
+
+O ponto é igual a virgula do br
+
+Se começar com 0, o int não serve
+
+O tipo long termina com L
+
+O tipo float termina com f
+
+!! java é fortemente tipado !!
+
+
+Constante - não pode ser modificado
+
+representado por final
+
+ex: final doble valor_de_pi = 3.14

@@ -1,0 +1,13 @@
+Escrever algoritmos legíveis
+
+Variáveis
+- Deve ser clara, evitar simplificar
+- Sempre no singular, exeto para array ou coleção.
+- Definir o mesmo idioma
+
+Métodos
+
+- nomeados por verbos, com primeira letra maiuscula e segunda minuscula
+
+- Definir idioma
+

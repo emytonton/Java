@@ -1,3 +1,4 @@
+package someexercises;
 import java.util.Scanner;
 
 public class NumerosPrimos {

@@ -1,0 +1,40 @@
+Operadores
+
+
+Atribuição  =
+
+
+Operadores lógicos
+Adição  +
+Subtração -
+Multiplicação *
+Divisão /
+Mod %
+
+Unários
+++ incrementa um
+-- tira um
+
+
+Ternário ?:
+
+forma resulmida de fazer uma condição e escolher por um dentre 2 valores, é como se fosse um IF só que de uma unica linha
+
+<EXPRESSÃO CONDICIONAL> ? <CASO CONDICAO SEJA TRUE> : <CASO CONDIÇÃO SEJA FALSA>
+
+
+Relacionais
+
+== se é igual
+
+!= verificar se é diferente
+
+> maior que
+=> maior  ou igual que
+< menor que
+<= menor ou igual que
+
+Logicos
+
+&& e
+|| ou

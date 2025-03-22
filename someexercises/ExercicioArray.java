@@ -1,3 +1,4 @@
+package someexercises;
 public class ExercicioArray {
     public static void main(String[] args) {
         

@@ -1,0 +1,95 @@
+Java possui 52 palavras reservadas.
+
+São todas em minusculo
+
+Controles de pacotes 
+
+-import
+
+-package
+
+Modificadores de acesso
+
+-public
+
+-private
+
+-protected
+
+
+Primitivos
+
+- boolean
+
+- byte
+
+- char
+
+- double
+
+- float
+
+- int
+
+- long
+
+-short
+
+- void
+
+
+
+Modificadores de classes, variáveus ou métodos
+
+- abstract 
+
+- classes
+
+- extends
+
+- final
+
+- implements
+
+- interface
+
+- native
+
+- new
+
+- static
+
+- strictfp
+
+- synchronized
+
+- transient
+
+- volatile
+
+
+Controle de fluxo dentro de um bloco de código
+
+- break
+
+- case
+
+- continue
+
+- catch
+
+- finally
+
+- throw
+
+- throws
+
+- try
+
+Variáveis de referencia
+
+- super
+
+- this
+
+

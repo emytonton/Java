@@ -1,0 +1,24 @@
+Um classe é definida por atributos e metodos.
+
+Os metodos correspondem em funções, sub-rotinas dentro das nossas classes.
+
+Critérios de nomeação de Métodos
+
+-escrito como verbos
+- camelCase
+
+!! não existe no java o conceito de método global, todos devem ser definidos dentro de uma classe
+
+
+1- Qual a proposta principal do método?
+2- Qual o tipo de retorno esperado após executar o método?
+
+
+! Caso o metodo não retone nenhum valor, ele será representado pela palavra-chave void, e não se usa return
+
+- Quais os paramentros serão necessarios para execução do método?
+
+2- O método possui risco de apresentar alguma exceção?
+
+3- Qual a visibilidade do método?
+

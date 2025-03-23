@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.exercicios;
 
 public class BoletimEstudantil {
    public static void main(String[] args) {

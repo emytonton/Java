@@ -1,0 +1,21 @@
+Para definir o número de casas após o ponto, sendo x o número de casas decimais:
+
+"%.xf%n"
+
+e usamos printf para printar:
+
+System.out.printf("%.xf%n")
+
+Math.abs(x)	Retorna o valor absoluto (módulo) de x	Math.abs(-5) → 5
+
+Math.sqrt(x)	Retorna a raiz quadrada de x	Math.sqrt(25) → 5.0
+
+Math.pow(x, y)	Retorna x elevado à potência y	Math.pow(2, 3) → 8.0
+
+Math.round(x)	Arredonda x para o inteiro mais próximo	Math.round(4.6) → 5
+
+Math.ceil(x)	Arredonda x para cima	Math.ceil(4.2) → 5.0
+
+Math.floor(x)	Arredonda x para baixo	Math.floor(4.9) → 4.0
+
+Math.random()	Retorna um número aleatório entre 0.0 e 1.0	Math.random() → 0.75
